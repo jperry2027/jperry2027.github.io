@@ -26,7 +26,7 @@ My interests include *data analytics*, and `Python programming`.
 ### Automating Concrete Mix Design Using Python 
 *This project involved converting the Nebraska Department of Transportation’s Excel-based concrete mix design calculator into a Python program to improve automation, reproducibility, and scenario analysis. A custom function, calculate_mix_design, was created to compute the total weight of each component (cement, fly ash, GGBFS, aggregates, admixtures) needed for one yard of concrete, based on user inputs like cement content and water-cement ratio. Four mix scenarios were analyzed: Standard, High Strength, Eco-Friendly, and Workability. Results were compiled into a DataFrame and visualized with bar charts to highlight differences in weight and composition. Deliverables included a Python notebook, visualizations, annotated code, and engineering documentation (Scope of Work, Gantt Chart, and timesheet). Ethical considerations, consistent units, and careful visualization choices were documented throughout.*
 
-[View the code](https://github.com/jperry2027/Project5.ipynb)
+[View notebook](Project5.ipynb)
 
 ---
 
