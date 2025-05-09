@@ -57,4 +57,3 @@ I am a Civil Engineering student at the University of Nebraska–Lincoln with ha
 
 - [Home](index.md)  
 - [About Me](about.md)    
-- [Contact](contact.md)
