@@ -1,4 +1,6 @@
-# Your Full Name
+# Jalyn Perry
+
+<img src="JP.png" alt="Mohammad Elayan" style="width: 220px; border-radius: 1px;" />
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
