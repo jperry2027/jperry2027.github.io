@@ -1,4 +1,4 @@
-# Your Full Name
+# Jalyn Perry
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
@@ -39,9 +39,9 @@ My interests include *data analytics*, and `Python programming`.
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [GitHub](https://github.com/yourusername)  
-- [Email Me](mailto:yourname@university.edu)
+- [LinkedIn](www.linkedin.com/in/jalyn-perry)  
+- [GitHub](https://github.com/jperry2027)  
+- [Email Me](mailto:jperry24@unl.edu)
 
 ---
 
